@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+speech_credentials.env
+google-credentials.json
+final/
+temp/
